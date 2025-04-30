@@ -162,11 +162,11 @@ form button:hover {
   }
 
 body {
-    font-size: 18px;
+    font-size: 22px;
   }
 
   p, li, a {
-    font-size: 18px;
+    font-size: 22px;
     line-height: 1.6;
   }
 } /* ← CLOSES the media query properly */
