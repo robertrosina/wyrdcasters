@@ -140,7 +140,7 @@ form button:hover {
 
 @media (max-width: 768px) {
   .logo {
-    font-size: 18px;
+    font-size: 28px;
   }
 
   .tagline {
@@ -162,11 +162,11 @@ form button:hover {
   }
 
 body {
-    font-size: 22px;
+    font-size: 28px;
   }
 
   p, li, a {
-    font-size: 22px;
+    font-size: 28px;
     line-height: 1.6;
   }
 } /* ← CLOSES the media query properly */
